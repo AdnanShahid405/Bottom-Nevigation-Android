@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bottomnavigationview</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="FindinPage">Find in Page\n</string>
+    <string name="homeString">This is Home Page</string>
+    <string name="favString">This is Favorite Page</string>
+    <string name="fipString">This is Find in Page</string>
+</resources>
